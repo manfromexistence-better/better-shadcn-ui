@@ -1,0 +1,23 @@
+<svg viewBox="-13.279 -1.733 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip0_2_23">
+      <rect width="70.1122" height="67.3283" fill="white" transform="translate(303.486 139.733)"/>
+    </clipPath>
+    <clipPath id="clip1_2_23">
+      <rect width="70.1122" height="67.3283" fill="white" transform="matrix(-1 0 0 1 206.33 139.733)"/>
+    </clipPath>
+  </defs>
+  <path d="M 375.474 179.138 L 299.124 109.099 L 288.384 120.806 L 352.009 179.138 L 101.225 179.138 L 164.85 120.756 L 154.11 109.049 L 77.76 179.138 L 77.709 179.138 L 77.709 225.305 C 77.709 246.174 97.814 263.174 122.501 263.174 L 169.584 263.174 C 194.27 263.174 214.376 246.174 214.376 225.305 L 214.376 194.968 L 238.807 194.968 L 238.807 225.305 C 238.807 246.174 258.913 263.174 283.6 263.174 L 330.682 263.174 C 355.369 263.174 375.474 246.174 375.474 225.305 L 375.474 179.138 Z" fill="#FC60A8"/>
+  <g clip-path="url(#clip0_2_23)" transform="matrix(1, 0, 0, 1, -27.136648178100586, 48.04904937744141)">
+    <path d="M360.452 173.397L338.542 194.437" stroke="black" stroke-width="4.375" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M356.07 150.253L314.441 190.229" stroke="black" stroke-width="4.375" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g clip-path="url(#clip1_2_23)" transform="matrix(1, 0, 0, 1, -27.136646270751953, 48.62641906738282)">
+    <path d="M149.364 173.397L171.274 194.437" stroke="black" stroke-width="4.375" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M153.746 150.253L195.375 190.229" stroke="black" stroke-width="4.375" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="254.042" y="392.61"> </text>
+  <text style="white-space: pre; fill: rgb(73, 67, 104); font-size: 15px; transform-origin: 90.4207px 281.201px;" x="88.337" y="286.374" transform="matrix(1.006700992584, 0.003097000066, -0.136092975736, 0.992926001549, 0.000005770569, -0.000267986596)"> </text>
+  <text style="white-space: pre; fill: rgb(73, 67, 104); font-size: 15px;" x="128.753" y="307.159"> </text>
+  <text style="white-space: pre; fill: rgb(73, 67, 104); font-size: 15px;" x="143.187" y="320.439" transform="matrix(8.02961254119873, 0, 0, 7.172658920288086, -1055.6248779296875, -1949.081298828125)">better</text>
+</svg>
