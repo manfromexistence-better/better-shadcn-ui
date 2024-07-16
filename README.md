@@ -188,7 +188,7 @@ A curated list of better things related to <a href='https://ui.shadcn.com/' targ
 
 <!-- # This is the most useless file in this codebase so feel free to just check some real codes in this codebase. -->
 # So, as you are already here then hear me out. This is the most funny story related to shadcn/ui, I guess. 
-* Time of the Event: (12/07/2024 - 09:25:18pm) // Also included seconds and realized it after pushing it. So I thought to keep it.
+### Time of the Event: (12/07/2024 - 09:25:18pm) -> Also included seconds and realized it after pushing it. So I decided to keep it.
 
 **So, I've been following shadcn/ui since its early days, even before it gained mainstream popularity. I knew this component library had the potential to become a major player, and I was right. As of writing, it has already surpassed 62k stars on GitHub, which is a fantastic achievement for a component library, especially a React one competing against established names like:**
 
