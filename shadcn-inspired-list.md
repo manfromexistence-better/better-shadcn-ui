@@ -1,0 +1,10 @@
+- [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
+- [cult-ui](https://www.cult-ui.com/) - A well curated set of animated shadcn-style React components for more specific use-cases.
+- [echo-editor](https://github.com/Seedsa/echo-editor) - A modern WYSIWYG rich-text editor base on tiptap and shadcn/ui
+- [edil-ozi](https://edilozi.pro/) - React components for developers. Gsap + framer motion + tailwind.
+- [fusion-ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining shadcn/ui and MagicUI.
+- [ibelick/background-snippet](https://bg.ibelick.com/) - Ready to use collection of modern background snippets.
+- [mixcnui](https://github.com/taqui-786/mixcnui) - Mixui is a collection of animated or re-usable component currently for Nextjs.
+- [mynaui](https://mynaui.com/) - TailwindCSS and shadcn/ui UI Kit for Figma and React.
+- [motionvariants](https://github.com/chrisabdo/motionvariants) - Beautiful Framer Motion Animations.
+- [godly](https://godly.website/) - Astronomically good web design inspiration. Only the best of the best.
